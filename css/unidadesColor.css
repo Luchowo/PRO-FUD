@@ -1,0 +1,46 @@
+.caja {
+	width: 200px;
+	height: 200px;
+	background: #7AB04B;
+	
+}
+.box {
+	
+	width: 200px;
+	height: 200px;
+	background: hsla(120, 60%, 70%, 1);
+}
+
+/* 
+- Palabras Clave:
+
+	- Hay 17 palabras clave que podemos usar:
+	aqua, black, blue, fuchsia, gray, green, lime, maroon, navy, 
+	olive,orange, purple, red, silver, teal, white, yellow
+
+	- RGBA Decimal: rgba(215, 38, 61, transparencia (1 sin transparencia ( de 0 a 1, decimales)
+
+		3 canales (255) = blanco
+		3 canales (0) = negro
+		3 canales (iguales) = gris
+
+	- RGB Porcentual: rgb(84%, 15%, 24%) HSV
+
+	- RGB Hexadecimal: #D7263D - De 16 en 16 va de 0 a F
+
+	1		A 10
+	2		B 11
+	3		C 12
+	4		D 13
+	5		E 14
+	6		F 15
+	7
+	8
+	9
+
+	- HSLA ( numero,%,%,transparencia)
+		H: tonalidad (0 a 360, circulo cromatico)
+		S: saturacion (intensidad color gris 0%, color puro 100%)
+		L: luminosidad (negro 0%, color puro 50%, blanco 100%)
+   // https://www.webquest.es/wp-content/uploads/2020/02/Circulo-cromatico-56a037183df78cafdaa0844c.jpg
+ */

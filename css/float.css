@@ -1,0 +1,54 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background: #f2f2f2;
+	font-family: Arial;
+}
+
+.cajaPadre {
+	background: #2e294e;
+	width: 700px;
+	overflow: hidden; /*SIEMPRE CONTENEDOR PADRE	*/
+}
+
+/*.clear {
+	clear:both;
+}*/
+
+.caja {
+	width: 200px;
+	color: #fff;
+	font-size: 38px;
+	height: 200px;
+	background: #0E6BA8;
+	margin: 20px;
+	text-align: center;
+	/* padding: 70px; */
+}
+
+.uno {
+	float: right;
+}
+
+.dos {
+	float: left;
+}
+
+.articulo {
+	background: #ccc;
+	width: 800px;
+	padding: 10px;
+	
+}
+
+.articulo img {
+	float: left;
+	padding: 10px;
+}
+
+/*FLOAT
+
+Ubicar los contenedores uno al lado del otro cuando son de TIPO BLOQUE*/
